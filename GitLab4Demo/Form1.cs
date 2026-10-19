@@ -21,5 +21,10 @@ namespace GitLab4Demo
         {
             MessageBox.Show("Новая функция из ветки AddFunction!");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Дополнительная информация о программе");
+        }
     }
 }
