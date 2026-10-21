@@ -26,5 +26,10 @@ namespace GitLab4Demo
         {
             MessageBox.Show("Дополнительная информация о программе");
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Информация");
+        }
     }
 }
